@@ -9,10 +9,10 @@ def main():
     time.sleep(1)
     os.system ('clear')
     print '[96m'
-    os.system ('figlet MR_KALIT09')
+    os.system ('figlet MR_GEMBOR')
     print'[92m================================='
-    print'[97m Author : [96mMR_Kalit09 '
-    print'[97m Team   : [96mMR_Kalit09 '
+    print'[97m Author : [96mMR_GEMBOR '
+    print'[97m Team   : [96mPURBALINGGA '
     print'[92m================================='
     print'[92m++++++++++++ [97mM E N U [92m++++++++++++'
     print'[92m[[97m1[92m] [97mDark Fb v1.7 '
